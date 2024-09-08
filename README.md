@@ -2,10 +2,10 @@
 
 ## 🎯 Objetivo
 
-O sistema foi desenvolvido para um banco que busca monetizar suas operações e desejava implementar três operações essenciais:
+O sistema foi desenvolvido para um banco que busca monetizar suas operações e deseja implementar três operações essenciais:
 
 - Depósito;
-- Saque e;
+- Saque; e
 - Extrato.
 
 Além disso, o cliente pode realizar até três saques diários, com um limite de R$500,00 por saque.
@@ -39,7 +39,7 @@ O programa iniciará exibindo um menu com as opções:
 
 - Verifica se o valor solicitado é maior que o saldo, se excede o limite de R$500,00 ou se o número de saques diários já foi atingido;
 - Reduz o saldo;
-- registra o saque no extrato;
+- Registra o saque no extrato;
 
 #### Extrato:
 
