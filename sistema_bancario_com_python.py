@@ -33,7 +33,7 @@ while True:
     #Saque deve ser menor que R$500,00 e máximo de 3 saques por dia
         valor_do_saque = float(input("Qual valor você deseja sacar? R$ "))
 
-        if numero_saques > (LIMITE_SAQUES-1):
+        if numero_saques >= (LIMITE_SAQUES):
             print(f"Não é possível sacar. Você já fez {numero_saques} saques hoje. Volte amanhã.")
 
         elif valor_do_saque > limite:
