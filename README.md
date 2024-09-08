@@ -1,5 +1,7 @@
 # Sistema bancário com Python
 
+![gif sistema bancario com python](https://github.com/user-attachments/assets/c91fa9b0-c94a-4c60-9494-f5c7e318ed40)
+
 ## 🎯 Objetivo
 
 O sistema foi desenvolvido para um banco que busca monetizar suas operações e deseja implementar três operações essenciais:
